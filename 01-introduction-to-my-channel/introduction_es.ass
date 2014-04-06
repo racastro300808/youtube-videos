@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 960
 PlayResY: 720
-Aegisub Scroll Position: 149
-Aegisub Active Line: 175
+Aegisub Scroll Position: 17
+Aegisub Active Line: 57
 Aegisub Video Zoom Percent: 1.000000
 
 [V4+ Styles]
@@ -18,63 +18,63 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.80,Default,,0,0,0,,Hi, I`m a developer
-Dialogue: 0,0:00:02.80,0:00:04.80,Default,,0,0,0,,and I think the world needs
-Dialogue: 0,0:00:04.80,0:00:06.80,Default,,0,0,0,,more developers
-Dialogue: 0,0:00:06.80,0:00:08.80,Default,,0,0,0,,especially well qualified
-Dialogue: 0,0:00:08.80,0:00:10.80,Default,,0,0,0,,developers, and if you
-Dialogue: 0,0:00:10.80,0:00:12.80,Default,,0,0,0,,are looking my channel, or ...
-Dialogue: 0,0:00:12.80,0:00:14.80,Default,,0,0,0,,watching my videos you are clearly
-Dialogue: 0,0:00:14.80,0:00:16.80,Default,,0,0,0,,one of those kind of people
-Dialogue: 0,0:00:16.80,0:00:18.80,Default,,0,0,0,,that want to be
-Dialogue: 0,0:00:18.80,0:00:20.80,Default,,0,0,0,,better persons,
-Dialogue: 0,0:00:20.80,0:00:22.80,Default,,0,0,0,,better developers,
-Dialogue: 0,0:00:22.80,0:00:24.80,Default,,0,0,0,,more qualified, skilful professionals.
-Dialogue: 0,0:00:24.80,0:00:26.80,Default,,0,0,0,,And I`m just like you.
-Dialogue: 0,0:00:26.80,0:00:28.80,Default,,0,0,0,,I want to change all the time
-Dialogue: 0,0:00:28.80,0:00:30.80,Default,,0,0,0,,I want to learn new
-Dialogue: 0,0:00:30.80,0:00:32.80,Default,,0,0,0,,stuff all the time
-Dialogue: 0,0:00:32.80,0:00:34.80,Default,,0,0,0,,and I think it`s
-Dialogue: 0,0:00:34.80,0:00:36.80,Default,,0,0,0,,all about sharing
-Dialogue: 0,0:00:36.80,0:00:38.80,Default,,0,0,0,,I mean.. ahh
-Dialogue: 0,0:00:38.80,0:00:40.80,Default,,0,0,0,,most of the things I have learned
-Dialogue: 0,0:00:40.80,0:00:42.80,Default,,0,0,0,,I did on internet.
-Dialogue: 0,0:00:42.80,0:00:44.80,Default,,0,0,0,,It`s no one personally told me
-Dialogue: 0,0:00:44.80,0:00:46.80,Default,,0,0,0,,I read some documentation,
-Dialogue: 0,0:00:46.80,0:00:48.80,Default,,0,0,0,,I watched videos
-Dialogue: 0,0:00:48.80,0:00:50.80,Default,,0,0,0,,.. those kinds of materials
+Dialogue: 0,0:00:00.00,0:00:02.80,Default,,0,0,0,,¡Ola, soy un programador
+Dialogue: 0,0:00:02.80,0:00:04.80,Default,,0,0,0,,e yo pienso que el mundo necesita 
+Dialogue: 0,0:00:04.80,0:00:06.80,Default,,0,0,0,,mas programadores
+Dialogue: 0,0:00:06.80,0:00:08.80,Default,,0,0,0,,especialmente programadores mejores cualificados
+Dialogue: 0,0:00:08.80,0:00:10.80,Default,,0,0,0,,y se usted esta 
+Dialogue: 0,0:00:10.80,0:00:12.80,Default,,0,0,0,,mirando mio canal
+Dialogue: 0,0:00:12.80,0:00:14.80,Default,,0,0,0,,mirando míos vídeos, usted es claramente
+Dialogue: 0,0:00:14.80,0:00:16.80,Default,,0,0,0,,una de estas personas
+Dialogue: 0,0:00:16.80,0:00:18.80,Default,,0,0,0,,que desean seer
+Dialogue: 0,0:00:18.80,0:00:20.80,Default,,0,0,0,,personas mejores,
+Dialogue: 0,0:00:20.80,0:00:22.80,Default,,0,0,0,,programadores mejores,
+Dialogue: 0,0:00:22.80,0:00:24.80,Default,,0,0,0,,más cualificados, llenos de habilidades
+Dialogue: 0,0:00:24.80,0:00:26.80,Default,,0,0,0,,Yo soy como usted.
+Dialogue: 0,0:00:26.80,0:00:28.80,Default,,0,0,0,,Yo quiero mudar a todo el tiempo
+Dialogue: 0,0:00:28.80,0:00:30.80,Default,,0,0,0,,yo quiero aprender cosas muevas
+Dialogue: 0,0:00:30.80,0:00:32.80,Default,,0,0,0,,todo el tiempo
+Dialogue: 0,0:00:32.80,0:00:34.80,Default,,0,0,0,,e yo pienso que
+Dialogue: 0,0:00:34.80,0:00:36.80,Default,,0,0,0,,esto todo es muy relacionado a compartir
+Dialogue: 0,0:00:36.80,0:00:38.80,Default,,0,0,0,,quiero decir...
+Dialogue: 0,0:00:38.80,0:00:40.80,Default,,0,0,0,,La mayoría do que yo aprendí 
+Dialogue: 0,0:00:40.80,0:00:42.80,Default,,0,0,0,,lo hice por Internet.
+Dialogue: 0,0:00:42.80,0:00:44.80,Default,,0,0,0,,nadie me dice personalmente
+Dialogue: 0,0:00:44.80,0:00:46.80,Default,,0,0,0,,yo leí algunas documentaciones,
+Dialogue: 0,0:00:46.80,0:00:48.80,Default,,0,0,0,,yo vi vídeos
+Dialogue: 0,0:00:48.80,0:00:50.80,Default,,0,0,0,,... este tipo de materiales
 Dialogue: 0,0:00:50.80,0:00:52.80,Default,,0,0,0,,
-Dialogue: 0,0:00:52.80,0:00:54.80,Default,,0,0,0,,and so... I`m wiling
-Dialogue: 0,0:00:54.80,0:00:56.80,Default,,0,0,0,,to share what I learned
-Dialogue: 0,0:00:56.80,0:00:58.80,Default,,0,0,0,,during this time of
-Dialogue: 0,0:00:58.90,0:01:00.18,Default,,0,0,0,,my professional carrier
-Dialogue: 0,0:01:00.18,0:01:02.18,Default,,0,0,0,,and I`m willing to
-Dialogue: 0,0:01:02.18,0:01:04.18,Default,,0,0,0,,... share it with you
-Dialogue: 0,0:01:04.18,0:01:06.18,Default,,0,0,0,,wherever
-Dialogue: 0,0:01:06.18,0:01:08.18,Default,,0,0,0,,are watching this videos
-Dialogue: 0,0:01:08.18,0:01:10.18,Default,,0,0,0,,on Youtube.
-Dialogue: 0,0:01:10.18,0:01:12.18,Default,,0,0,0,,Even because things I did on the past
-Dialogue: 0,0:01:12.18,0:01:14.18,Default,,0,0,0,,I don't remember
-Dialogue: 0,0:01:14.18,0:01:16.18,Default,,0,0,0,,anymore, and I have to
-Dialogue: 0,0:01:16.18,0:01:18.18,Default,,0,0,0,,check out my own materials
-Dialogue: 0,0:01:18.18,0:01:20.18,Default,,0,0,0,,and then I remember... "ahh
-Dialogue: 0,0:01:20.18,0:01:22.18,Default,,0,0,0,,this detail you do this way...
-Dialogue: 0,0:01:22.18,0:01:24.18,Default,,0,0,0,,that way..." and so on
-Dialogue: 0,0:01:24.18,0:01:26.18,Default,,0,0,0,,.. and I
-Dialogue: 0,0:01:26.18,0:01:28.18,Default,,0,0,0,,think videos is a really good
-Dialogue: 0,0:01:28.18,0:01:30.18,Default,,0,0,0,,way to do It, because
-Dialogue: 0,0:01:30.18,0:01:32.18,Default,,0,0,0,,you can keep a
-Dialogue: 0,0:01:32.18,0:01:34.18,Default,,0,0,0,,dialogue
-Dialogue: 0,0:01:34.18,0:01:36.18,Default,,0,0,0,,you can receive feedback , you can comment
-Dialogue: 0,0:01:36.18,0:01:38.18,Default,,0,0,0,,and so on... and
+Dialogue: 0,0:00:52.80,0:00:54.80,Default,,0,0,0,,e así estoy dispuesto 
+Dialogue: 0,0:00:54.80,0:00:56.80,Default,,0,0,0,,a compartir lo que tengo aprendido
+Dialogue: 0,0:00:56.80,0:00:58.80,Default,,0,0,0,,durante estos años 
+Dialogue: 0,0:00:58.90,0:01:00.18,Default,,0,0,0,,de mi carera profesional
+Dialogue: 0,0:01:00.18,0:01:02.18,Default,,0,0,0,,e estoy dispuesto a 
+Dialogue: 0,0:01:02.18,0:01:04.18,Default,,0,0,0,,... compartir con usted
+Dialogue: 0,0:01:04.18,0:01:06.18,Default,,0,0,0,,no importa quien sea 
+Dialogue: 0,0:01:06.18,0:01:08.18,Default,,0,0,0,,que estay asistiendo estos vídeos
+Dialogue: 0,0:01:08.18,0:01:10.18,Default,,0,0,0,,en Youtube.
+Dialogue: 0,0:01:10.18,0:01:12.18,Default,,0,0,0,,Mismo que cosas que tengo fecho no pasado
+Dialogue: 0,0:01:12.18,0:01:14.18,Default,,0,0,0,,no me recuerdo más
+Dialogue: 0,0:01:14.18,0:01:16.18,Default,,0,0,0,,y tengo que 
+Dialogue: 0,0:01:16.18,0:01:18.18,Default,,0,0,0,,buscar a mis proprios materiales para
+Dialogue: 0,0:01:18.18,0:01:20.18,Default,,0,0,0,,recordar como se hace alguna cosa "ahh
+Dialogue: 0,0:01:20.18,0:01:22.18,Default,,0,0,0,,esto detalle se hace así, esto se hace 
+Dialogue: 0,0:01:22.18,0:01:24.18,Default,,0,0,0,,de esta forma" e así por delante.
+Dialogue: 0,0:01:24.18,0:01:26.18,Default,,0,0,0,,e yo
+Dialogue: 0,0:01:26.18,0:01:28.18,Default,,0,0,0,,pienso que vídeos es una buena forma
+Dialogue: 0,0:01:28.18,0:01:30.18,Default,,0,0,0,,de hacerlo, porque usted puede 
+Dialogue: 0,0:01:30.18,0:01:32.18,Default,,0,0,0,,mantener un
+Dialogue: 0,0:01:32.18,0:01:34.18,Default,,0,0,0,,diálogo
+Dialogue: 0,0:01:34.18,0:01:36.18,Default,,0,0,0,,usted puede recibir feedback, comentarios 
+Dialogue: 0,0:01:36.18,0:01:38.18,Default,,0,0,0,,e así por delante.
 Dialogue: 0,0:01:38.18,0:01:40.18,Default,,0,0,0,,
-Dialogue: 0,0:01:40.18,0:01:42.18,Default,,0,0,0,,I think is a really good way to share
-Dialogue: 0,0:01:42.18,0:01:44.18,Default,,0,0,0,,what we learned.
+Dialogue: 0,0:01:40.18,0:01:42.18,Default,,0,0,0,,Yo pienso que es una buena manera de compartir
+Dialogue: 0,0:01:42.18,0:01:44.18,Default,,0,0,0,,lo que nosotros tenemos aprendido.
 Dialogue: 0,0:01:44.18,0:01:46.18,Default,,0,0,0,,
-Dialogue: 0,0:01:46.18,0:01:48.18,Default,,0,0,0,,I have plans to
-Dialogue: 0,0:01:48.18,0:01:50.18,Default,,0,0,0,,start series about
+Dialogue: 0,0:01:46.18,0:01:48.18,Default,,0,0,0,,Yo planeo 
+Dialogue: 0,0:01:48.18,0:01:50.18,Default,,0,0,0,,empezar una serie sobre
 Dialogue: 0,0:01:50.18,0:01:52.18,Default,,0,0,0,,Cake PHP,
-Dialogue: 0,0:01:52.18,0:01:54.18,Default,,0,0,0,,and also CodeIgniter
+Dialogue: 0,0:01:52.18,0:01:54.18,Default,,0,0,0,,Y también CodeIgniter
 Dialogue: 0,0:01:54.18,0:01:56.18,Default,,0,0,0,,and I`m staring to learn
 Dialogue: 0,0:01:56.18,0:01:58.18,Default,,0,0,0,,a little bit better
 Dialogue: 0,0:01:58.18,0:02:00.18,Default,,0,0,0,,about Zend Framework

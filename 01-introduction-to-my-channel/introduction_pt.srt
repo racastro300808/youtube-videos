@@ -1,0 +1,668 @@
+﻿1
+00:00:00,000 --> 00:00:02,800
+Olá, eu sou um desenvolvedor
+
+2
+00:00:02,800 --> 00:00:04,800
+e eu penso que o mundo precisa
+
+3
+00:00:04,800 --> 00:00:06,800
+mais desenvolvedores.
+
+4
+00:00:06,800 --> 00:00:08,800
+Especialmente desenvolvedores
+
+5
+00:00:08,800 --> 00:00:10,800
+bem qualificados. E se você
+
+6
+00:00:10,800 --> 00:00:12,800
+está olhando meu canal, ou
+
+7
+00:00:12,800 --> 00:00:14,800
+assistindo meus vídeos, você é claramente
+
+8
+00:00:14,800 --> 00:00:16,800
+um destes tipos de pessoas
+
+9
+00:00:16,800 --> 00:00:18,800
+que querem ser
+
+10
+00:00:18,800 --> 00:00:20,800
+pessoas melhores,
+
+11
+00:00:20,800 --> 00:00:22,800
+desenvolvedores melhores,
+
+12
+00:00:22,800 --> 00:00:24,800
+mais qualificados, profissionais habilidosos.
+
+13
+00:00:24,800 --> 00:00:26,800
+Eu sou como você.
+
+14
+00:00:26,800 --> 00:00:28,800
+Eu quero mudar o tempo todo.
+
+15
+00:00:28,800 --> 00:00:30,800
+Eu quero aprender novas
+
+16
+00:00:30,800 --> 00:00:32,800
+coisas o tempo todo
+
+17
+00:00:32,800 --> 00:00:34,800
+e eu penso que a questão
+
+18
+00:00:34,800 --> 00:00:36,800
+é toda relacionada a compartilhar.
+
+19
+00:00:36,800 --> 00:00:38,800
+Eu quero dizer ...
+
+20
+00:00:38,800 --> 00:00:40,800
+A maioria das coisas que eu apreendí
+
+21
+00:00:40,800 --> 00:00:42,800
+foi na internet.
+
+22
+00:00:42,800 --> 00:00:44,800
+Ninguém pessoalmente me ensinou.
+
+23
+00:00:44,800 --> 00:00:46,800
+Eu lí documentações,
+
+24
+00:00:46,800 --> 00:00:48,800
+eu assistí vídeos
+
+25
+00:00:48,800 --> 00:00:50,800
+este tipo de materiais.
+
+26
+00:00:52,800 --> 00:00:54,800
+E assim... eu estou disposto
+
+27
+00:00:54,800 --> 00:00:56,800
+a compartilhar o que eu apreendí
+
+28
+00:00:56,800 --> 00:00:58,800
+durante este tempo
+
+29
+00:00:58,900 --> 00:01:00,180
+da minha carreira profissional
+
+30
+00:01:00,180 --> 00:01:02,180
+e eu estou disposto
+
+31
+00:01:02,180 --> 00:01:04,180
+a compartilhar com você
+
+32
+00:01:04,180 --> 00:01:06,180
+qualquer se seja
+
+33
+00:01:06,180 --> 00:01:08,180
+que vê estes vídeos
+
+34
+00:01:08,180 --> 00:01:10,180
+no youtube.
+
+35
+00:01:10,180 --> 00:01:12,180
+Até porque coisas que eu fiz no passado
+
+36
+00:01:12,180 --> 00:01:14,180
+eu não lembro
+
+37
+00:01:14,180 --> 00:01:16,180
+mais como. Eu tenho que
+
+38
+00:01:16,180 --> 00:01:18,180
+ver meus próprios materiais
+
+39
+00:01:18,180 --> 00:01:20,180
+e então eu lembro "ahh
+
+40
+00:01:20,180 --> 00:01:22,180
+este detalhe você faz desta maneira
+
+41
+00:01:22,180 --> 00:01:24,180
+e doutra maneira" e assim por diante...
+
+42
+00:01:24,180 --> 00:01:26,180
+.. e eu
+
+43
+00:01:26,180 --> 00:01:28,180
+penso que vídeos são uma boa forma
+
+44
+00:01:28,180 --> 00:01:30,180
+de fazer isso, porque
+
+45
+00:01:30,180 --> 00:01:32,180
+você/eu posso/podemos manter
+
+46
+00:01:32,180 --> 00:01:34,180
+um diálogo
+
+47
+00:01:34,180 --> 00:01:36,180
+receber feedback, comentários
+
+48
+00:01:36,180 --> 00:01:38,180
+e assim por diante... e
+
+49
+00:01:40,180 --> 00:01:42,180
+e eu penso que seja uma boa forma de compartilhar
+
+50
+00:01:42,180 --> 00:01:44,180
+o que nós aprendemos.
+
+51
+00:01:46,180 --> 00:01:48,180
+Eu tenho planos de
+
+52
+00:01:48,180 --> 00:01:50,180
+iniciar séries
+
+53
+00:01:50,180 --> 00:01:52,180
+sobre Cake PHP,
+
+54
+00:01:52,180 --> 00:01:54,180
+e também CodeIgniter
+
+55
+00:01:54,180 --> 00:01:56,180
+e eu estou iniciando a aprender
+
+56
+00:01:56,180 --> 00:01:58,180
+um pouco melhor
+
+57
+00:01:58,180 --> 00:02:00,180
+sobre Zend Framework
+
+58
+00:02:00,180 --> 00:02:02,180
+e Symfony, e eu
+
+59
+00:02:02,180 --> 00:02:04,180
+ainda não usei
+
+60
+00:02:04,180 --> 00:02:06,180
+Laravel, mas eu planejo
+
+61
+00:02:06,180 --> 00:02:08,180
+aprender, e enquanto aprendo
+
+62
+00:02:08,180 --> 00:02:10,180
+eu penso em compartilhar algo.
+
+63
+00:02:10,180 --> 00:02:12,180
+Mas Cake e
+
+64
+00:02:12,180 --> 00:02:14,180
+Codeigniter
+
+65
+00:02:14,180 --> 00:02:16,180
+eu tenho bastante experiência
+
+66
+00:02:16,180 --> 00:02:18,180
+e penso que posso compartilhar com você
+
+67
+00:02:18,180 --> 00:02:20,180
+um pouco. Ok?
+
+68
+00:02:20,180 --> 00:02:22,180
+também Java... eu tenho trabalhado
+
+69
+00:02:22,180 --> 00:02:24,180
+com Java por um tempo já
+
+70
+00:02:24,180 --> 00:02:26,180
+e Java é
+
+71
+00:02:26,180 --> 00:02:30,180
+...
+
+72
+00:02:30,180 --> 00:02:32,180
+um grande...
+
+73
+00:02:32,180 --> 00:02:34,180
+um mundo novo
+
+74
+00:02:34,180 --> 00:02:36,180
+(reclamando da dificuldade de pronúncia)
+
+75
+00:02:36,180 --> 00:02:38,180
+.. porque você pode
+
+76
+00:02:38,180 --> 00:02:40,180
+desenvolver qualquer coisa
+
+77
+00:02:40,180 --> 00:02:42,180
+você pode fazer aplicativos Desktop,
+
+78
+00:02:42,180 --> 00:02:44,180
+você pode
+
+79
+00:02:44,180 --> 00:02:46,180
+fazer websites, você pode
+
+80
+00:02:46,180 --> 00:02:48,180
+fazer client e server applications,
+
+81
+00:02:48,180 --> 00:02:50,180
+como quando você usa
+
+82
+00:02:50,180 --> 00:02:52,180
+Jboss ou algo parecido
+
+83
+00:02:54,180 --> 00:02:56,180
+Eu quero dizer
+
+84
+00:02:56,180 --> 00:02:58,180
+é um grande mundo
+
+85
+00:02:58,180 --> 00:03:00,180
+para estudar
+
+86
+00:03:00,180 --> 00:03:02,180
+e você pode fazer tanta
+
+87
+00:03:02,180 --> 00:03:04,180
+coisa com Java.. e
+
+88
+00:03:04,180 --> 00:03:06,180
+também Android. Eu fiz um curso
+
+89
+00:03:06,180 --> 00:03:08,180
+de Android e eu posso desenvolver
+
+90
+00:03:08,180 --> 00:03:10,180
+alguns aplicativos
+
+91
+00:03:10,180 --> 00:03:12,180
+não é tão difícil
+
+92
+00:03:12,180 --> 00:03:14,180
+você usa bastante Java
+
+93
+00:03:14,180 --> 00:03:16,180
+...se você conhece Java
+
+94
+00:03:16,180 --> 00:03:18,180
+não é difícil
+
+95
+00:03:18,180 --> 00:03:20,180
+para desenvolver Android
+
+96
+00:03:22,180 --> 00:03:24,180
+também porque a IDE é muito boa
+
+97
+00:03:24,180 --> 00:03:26,180
+e claro... este canal
+
+98
+00:03:26,180 --> 00:03:28,180
+sempre estará aberto
+
+99
+00:03:28,180 --> 00:03:30,180
+a coisas novas.
+
+100
+00:03:30,180 --> 00:03:32,180
+Uma das coisas novas
+
+101
+00:03:32,180 --> 00:03:34,180
+que eu estou iniciando
+
+102
+00:03:34,180 --> 00:03:36,180
+agora mesmo é uma versão
+
+103
+00:03:36,180 --> 00:03:38,180
+em Inglês dos meus vídeos
+
+104
+00:03:38,180 --> 00:03:40,180
+Eu sou também
+
+105
+00:03:40,180 --> 00:03:42,180
+um estudante de idiomas.
+
+106
+00:03:42,180 --> 00:03:44,180
+Eu sou Brasileiro, assim meu idioma pátrio,
+
+107
+00:03:44,180 --> 00:03:46,180
+minha língua mãe
+
+108
+00:03:46,180 --> 00:03:48,180
+é Português.
+
+109
+00:03:48,180 --> 00:03:50,180
+Mas eu sei um pouco de Inglês
+
+110
+00:03:50,180 --> 00:03:52,180
+e também Alemão.
+
+111
+00:03:52,180 --> 00:03:54,180
+Eu quero
+
+112
+00:03:54,180 --> 00:03:56,180
+ser fluente nestes idiomas.
+
+113
+00:03:56,180 --> 00:03:58,180
+Pelo menos Inglês e Alemão.
+
+114
+00:03:58,180 --> 00:04:00,180
+Mas também quero
+
+115
+00:04:00,180 --> 00:04:02,180
+chegar a um bom
+
+116
+00:04:02,180 --> 00:04:04,180
+...
+
+117
+00:04:04,180 --> 00:04:06,180
+nível de habilidade
+
+118
+00:04:06,180 --> 00:04:08,180
+em Espanhol e Francês.
+
+119
+00:04:08,180 --> 00:04:10,180
+Deste modo
+
+120
+00:04:10,180 --> 00:04:12,180
+eu estarei fazendo
+
+121
+00:04:12,180 --> 00:04:14,180
+esta série em Inglês
+
+122
+00:04:14,180 --> 00:04:16,180
+e traduzindo-a
+
+123
+00:04:16,180 --> 00:04:18,180
+para Português
+
+124
+00:04:18,180 --> 00:04:20,180
+e Alemão
+
+125
+00:04:20,180 --> 00:04:22,180
+e Espanhol
+
+126
+00:04:22,180 --> 00:04:24,180
+de início. Talvez no futuro
+
+127
+00:04:24,180 --> 00:04:26,180
+eu o farei para Francês também.
+
+128
+00:04:26,180 --> 00:04:28,180
+Eu quero dizer ...
+
+129
+00:04:28,180 --> 00:04:30,180
+eu não sei Francês ainda, eu sou só
+
+130
+00:04:30,180 --> 00:04:32,180
+um iniciante. Desta maneira
+
+131
+00:04:32,180 --> 00:04:34,180
+eu penso que este canal
+
+132
+00:04:34,180 --> 00:04:36,180
+pode ser um bom lugar
+
+133
+00:04:36,180 --> 00:04:38,180
+para experimentar
+
+134
+00:04:38,180 --> 00:04:40,180
+algumas coisas novas. Ok?
+
+135
+00:04:40,180 --> 00:04:42,180
+Eu espero que você goste
+
+136
+00:04:42,180 --> 00:04:44,180
+e que você possa
+
+137
+00:04:44,180 --> 00:04:46,180
+dar feedback, que possa
+
+138
+00:04:46,180 --> 00:04:48,180
+corrigir coisas, dar sugestões
+
+139
+00:04:48,180 --> 00:04:50,180
+qualquer coisa, ok?
+
+140
+00:04:50,180 --> 00:04:52,180
+Eu estou muito agradecido
+
+141
+00:04:52,180 --> 00:04:54,180
+a todas as pessoas que subscreveram
+
+142
+00:04:54,180 --> 00:04:56,180
+no meu canal no youtube
+
+143
+00:04:56,180 --> 00:04:58,180
+e que olham meus vídeos
+
+144
+00:04:58,180 --> 00:05:00,180
+e que me dão algum feedback positivo
+
+145
+00:05:00,180 --> 00:05:02,180
+e mesmo algumas
+
+146
+00:05:02,180 --> 00:05:04,180
+críticas.
+
+147
+00:05:04,180 --> 00:05:06,180
+Coisas que eu fiz
+
+148
+00:05:06,180 --> 00:05:08,180
+não tão bem, que eu
+
+149
+00:05:08,180 --> 00:05:10,180
+não implememtei tão bem.
+
+150
+00:05:10,180 --> 00:05:12,180
+Isso é perfeito! Essa é a maneira
+
+151
+00:05:12,180 --> 00:05:14,180
+de que
+
+152
+00:05:14,180 --> 00:05:16,180
+se pode melhorar!
+
+153
+00:05:16,180 --> 00:05:18,180
+Discutindo!
+
+154
+00:05:18,180 --> 00:05:20,180
+Não existe
+
+155
+00:05:20,180 --> 00:05:22,180
+essa coisa
+
+156
+00:05:22,180 --> 00:05:24,180
+de "uma abordagem correta"
+
+157
+00:05:24,180 --> 00:05:26,180
+... são só abordagens.
+
+158
+00:05:26,180 --> 00:05:28,180
+apenas código...
+
+159
+00:05:28,180 --> 00:05:30,180
+Você pode escrever
+
+160
+00:05:30,180 --> 00:05:32,180
+de várias maneiras
+
+161
+00:05:32,180 --> 00:05:34,180
+não há
+
+162
+00:05:34,180 --> 00:05:36,180
+uma maneira definitiva.
+
+163
+00:05:38,180 --> 00:05:40,180
+Eu espero que você aproveite
+
+164
+00:05:40,180 --> 00:05:42,180
+Eu espero que estes vídeos no meu canal
+
+165
+00:05:42,180 --> 00:05:44,180
+possam ser
+
+166
+00:05:44,180 --> 00:05:46,180
+úteis para você.
+
+167
+00:05:48,180 --> 00:05:50,180
+Muito obrigado, adeus.
+
